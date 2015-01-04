@@ -9,7 +9,8 @@ public function index()
         your code here
         ---- ---- ---- ----
     */
-        $data = "gkmnoijnoig";
-    $this->load->view('pdfreport', $data);
+       
+
+    $this->load->view('pdfreport');
 }
 ?>
